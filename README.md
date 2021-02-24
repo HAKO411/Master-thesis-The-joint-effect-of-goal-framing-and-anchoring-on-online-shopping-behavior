@@ -95,8 +95,7 @@ Review, 2(4), 376.
 80. Spence, H. E., Engel, J. F., & Blackwell, R. D. (1970). Perceived risk in mail-order and retail store
 buying. Journal of marketing research, 7(3), 364-369.
 Statista (2019). Retail e-commerce sales worldwide from 2014 to 2021 (in billion U.S. dollars).
-Retrieved from https://www.statista.com/statistics/379046/worldwide-retail-e-commerce-
-sales/
+Retrieved from https://www.statista.com/statistics/379046/worldwide-retail-e-commerce-sales/
 81. Szmigin, I. and Piacentini, M. (2015). Consumer behaviour. New York, NY: Oxford Univ. Press. Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. science, 185(4157), 1124-1131.
 82. Tversky, A., & Kahneman, D. (1981). The framing of decisions and the psychology of choice. Science, 211(4481), 453-458.
 83. Tversky, A., & Kahneman, D. (1992). Advances in prospect theory: Cumulative representation of uncertainty. Journal of Risk and uncertainty, 5(4), 297-323.
